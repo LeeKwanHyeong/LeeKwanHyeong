@@ -1,16 +1,16 @@
-### Hi there 👋
+### KwanDoll 
 
-<!--
-**LeeKwanHyeong/LeeKwanHyeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###LeeKwanHyeong Résumé
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
+- Graduated: Bachelor's degree of Computer Engineering and Bigdata Engineering
+- Management Of Technology(MOT) Master's degree in progress(2022.03 ~ 2024.02)
+- Founder of Salud Inc. (2021.09 ~ )
+- Android Developer
+- NLP based deep learning
+- Main Programming Language: Kotlin, Java
+- Sub Programming Language: Python, Swift
+- 2019 ~ 2020 Tech Stack: Python, Deep Learning, NLP
+- 2020 ~ 2021 Tech Stack: Android Developing with Java
+- 2021 ~ 2022 Tech Stack: Android Developing with Java & IOS Developing with Swift
+- 2022 Tech Stack: Android Developing with Kotlin
