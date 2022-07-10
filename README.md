@@ -1,7 +1,6 @@
 ### KwanDoll 
 
-
-###LeeKwanHyeong Résumé
+LeeKwanHyeong Résumé
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 - Graduated: Bachelor's degree of Computer Engineering and Bigdata Engineering
 - Management Of Technology(MOT) Master's degree in progress(2022.03 ~ 2024.02)
