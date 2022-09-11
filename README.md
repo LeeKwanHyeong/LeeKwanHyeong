@@ -13,4 +13,6 @@ LeeKwanHyeong Résumé
 - 2020 ~ 2021 Tech Stack: Android Developing with Java
 - 2021 ~ 2022 Tech Stack: Android Developing with Java & IOS Developing with Swift
 - 2022 Tech Stack: Android Developing with Kotlin
+- 2022 Tech Study: BackEnd with Java
 - 2022 Work in: Olive Union Android Developer
+- 2022.09 ~ Olive Union AOS PL
