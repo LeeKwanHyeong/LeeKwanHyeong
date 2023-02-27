@@ -15,4 +15,5 @@ LeeKwanHyeong Résumé
 - 2022 Tech Stack: Android Developing with Kotlin
 - 2022 Tech Study: BackEnd with Java
 - 2022 Work in: Olive Union Android Developer
-- 2022.09 ~ Olive Union AOS PL
+- 2022.09 ~ 2023.02 Olive Union AOS PL
+- 2023.02 ~ EoFlow AOS Manager
