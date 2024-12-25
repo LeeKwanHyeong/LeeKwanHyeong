@@ -18,3 +18,4 @@ LeeKwanHyeong Résumé
 - 2022.09 ~ 2023.02 Olive Union AOS PL
 - 2023.02 ~ EoFlow AOS Manager
 - 2022 ~ 2023 Tech Stack: Android developing with RxJava, RxKotlin by native language java, kotlin & Hybrid App(Android, iOS) developing using Flutter.
+- 2024 ~ 2027 Korea University/Master's degree of Applied Artificial Intelligence
