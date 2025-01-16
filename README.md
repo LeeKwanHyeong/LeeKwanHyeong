@@ -3,7 +3,6 @@
 LeeKwanHyeong Résumé
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 - Graduated: Bachelor's degree of Computer Engineering and Bigdata Engineering
-- Management Of Technology(MOT) Master's degree in progress(2022.03 ~ 2024.02)
 - Founder of Salud Inc. (2021.09 ~ )
 - Android Developer
 - NLP based deep learning
@@ -16,6 +15,6 @@ LeeKwanHyeong Résumé
 - 2022 Tech Study: BackEnd with Java
 - 2022 Work in: Olive Union Android Developer
 - 2022.09 ~ 2023.02 Olive Union AOS PL
-- 2023.02 ~ EoFlow AOS Manager
 - 2022 ~ 2023 Tech Stack: Android developing with RxJava, RxKotlin by native language java, kotlin & Hybrid App(Android, iOS) developing using Flutter.
+- 2023.02 ~ 2025.01 EoFlow AOS Manager
 - 2025 ~ 2027 Korea University/Master's degree of Applied Artificial Intelligence
