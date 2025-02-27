@@ -8,21 +8,9 @@
 <!-- AI 관련 기술 배지 추가 -->
 ## AI
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/><img src="https://img.shields.io/badge/TensorFlow-E23237?style=flat-square&logo=TensorFlow&logoColor=white"/><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/><img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/><img src="https://img.shields.io/badge/NLP-4B8BBE?style=flat-square&logo=Python&logoColor=white"/>
+##
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=LeeKwanHyeong&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=LeeKwanHyeong&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=LeeKwanHyeong&show_icons=true" />
-</picture>
-
----
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeKwanHyeong&show_icons=true&theme=radical)
 ## LeeKwanHyeong Résumé
 [📜 View Full Résumé](https://pleasant-deposit-bdd.notion.site/17ecdb5fa1338076a7f8dc175826d681?pvs=4)
 
