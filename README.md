@@ -15,7 +15,7 @@
 ### Simplified Résumé
 - **Graduated:** Bachelor's degree of Computer Engineering and Bigdata Engineering
 - **Founder:** Salud Inc. (2021.02 ~ 2022.08)
-- **Mobile Developer:** 안드로이드 및 하이브리드 앱 개발 전문가
+- **Mobile Developer:** 안드로이드 및 하이브리드 앱 개발
 - **AI Enthusiast:** NLP 기반 딥러닝 및 인공지능 연구
 - **Main Programming Languages:** Kotlin, Python
 - **Sub Programming Languages:** Java, Dart, Swift
@@ -26,8 +26,8 @@
   - 2022: Android Developing with Kotlin and Java
   - 2022: Olive Union Android Developer (AOS PL)
   - 2022 ~ 2023: Android Development with RxJava, RxKotlin & Flutter for Hybrid Apps
-  - 2023.02 ~ 2025.01: EOFlow AOS Manager
-  - 2025 ~ 2027: Korea University / Master's degree of Applied Artificial Intelligence
+  - 2023.02 ~ 2025.01: EOFlow AOS/AI Manager
+  - 2025 ~ 2027: Master degree of Applied Artificial Intelligence
 
 ---
 
