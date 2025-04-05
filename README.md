@@ -12,7 +12,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeKwanHyeong&show_icons=true&theme=radical)
 
-### Simplefied Résumé
+### Simplified Résumé
 - **Graduated:** Bachelor's degree of Computer Engineering and Bigdata Engineering
 - **Founder:** Salud Inc. (2021.02 ~ 2022.08)
 - **Mobile Developer:** 안드로이드 및 하이브리드 앱 개발 전문가
