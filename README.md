@@ -11,8 +11,6 @@
 ##
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeKwanHyeong&show_icons=true&theme=radical)
-## LeeKwanHyeong Résumé
-[📜 View Full Résumé](https://pleasant-deposit-bdd.notion.site/17ecdb5fa1338076a7f8dc175826d681?pvs=4)
 
 ### Simplefied Résumé
 - **Graduated:** Bachelor's degree of Computer Engineering and Bigdata Engineering
