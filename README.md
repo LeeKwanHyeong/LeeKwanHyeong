@@ -117,7 +117,7 @@
 ### Key Points
 - 주간/월간 수요 데이터 처리
 - 대용량 데이터셋 기반 ETL 및 피처 생성
-- PatchTST, PatchMixer, Titan, ExoTST 기반 실험
+- PatchTST, PatchMixer, Titan, ExoTST 기반 실험 및 운영화
 - 간헐 수요(Intermittent Demand) 대응 로직 설계
 - 통계 모델 + 딥러닝 모델 혼합 운영 구조 검토
 - FastAPI 기반 서비스 구조화
